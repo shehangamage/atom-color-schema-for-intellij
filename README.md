@@ -1,0 +1,1 @@
+# atom-color-schema-for-intellij
